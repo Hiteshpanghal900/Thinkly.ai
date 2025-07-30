@@ -36,7 +36,7 @@ Thinkly.ai/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/thinkly.ai.git
+git clone https://github.com/Hiteshpanghal900/thinkly.ai.git
 cd thinkly.ai
 ```
 
